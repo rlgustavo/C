@@ -1,4 +1,4 @@
-/* JOGOS NA2- ENTREGA N1A- GRUPO 4:
+s/* JOGOS NA2- ENTREGA N1A- GRUPO 4:
 (Gustavo Rocco Domingos)
 (Gustavo Rodrigues de Lima)
 (Andre Alves do Nascimento)

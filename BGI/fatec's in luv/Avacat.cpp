@@ -2,12 +2,12 @@
 #include<graphics.h>
 
 int main()  { 
-	initwindow(600, 500, "Fatec's in Luv", 100, 100);
+	initwindow(1200, 780, "Fatec's in Luv", 0, 0);
 	setbkcolor(WHITE);
 	cleardevice;
 	
-	readimagefile("teste.jpg", 100, 100, 300, 300);
-	
+	readimagefile("teste.jpg", 0, 0, 1200, 780);
+
 	
 	
 	getch();	
