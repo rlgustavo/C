@@ -1,7 +1,7 @@
 [Project]
-FileName=Fatec's in Luv.dev
-Name=Fatec's-in-Luv
-Type=1
+FileName=Frames.dev
+Name=Frames
+Type=0
 Ver=2
 ObjFiles=
 Includes=
@@ -19,7 +19,7 @@ ObjectOutput=
 LogOutput=
 LogOutputEnabled=0
 OverrideOutput=0
-OverrideOutputName=Fatec's in Luv.exe
+OverrideOutputName=Frames.exe
 HostApplication=
 UseCustomMakefile=0
 CustomMakefile=
@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=Avacat.cpp
+FileName=main.cpp
 CompileCpp=1
 Folder=
 Compile=1
